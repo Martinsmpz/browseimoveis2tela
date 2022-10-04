@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro app</string>
+    <string name="Consultar_Visitas">Consultar visitas</string>
+    <string name="text_bemvindo">Obrigado por agendar uma visita com a nossa equipe</string>
+</resources>
